@@ -1,10 +1,38 @@
 Hello! I'm a full stack web developer who is currently working with Lambda School as one of their team leads. I'm currently seeking out offers where I can further develop myself, my technical abilities, and help others along the way.
 
-Each day, I employ both technical and soft skills leading a group of students through their journey at Lambda. From daily code reviews, team meetings, helping someone deepen their understanding of programming, or just being a friend.
+While Javascript may be my strongest programming language, I recently picked up Python and am thoroughly enjoying it so far. I'm looking forward to all the cool things I'll learn with the language.
 
-Coding can be such a social activity, and I personally find joy in that.
+Things I've worked with in the past include:
 
-When I'm not coding, I'm either learning music theory/practicing guitar, or immersing myself in Japanese culture to deepen my understanding of the language. Maybe even some video games, but I'm happiest when I'm learning something new or perfecting my crafts. 
+  # Basics
+    - HTML
+    - CSS
+    - LESS/SCSS
+    - Javascript
+    - Python
+    - Deploying web applications/servers
+  
+  # React Frontend
+    - Router
+    - Redux (Thunk)
+    - Context API
+    - Custom hooks
+    - Jest.js
+    
+  # Node.js Backend
+    - REST APIs
+    - Express.js
+    - Knex.js
+    - Authentication (Tokens/Cookies/3rd-party)
+    - RDBMS (SQL, PostgreSQL)
+    
+  # Data structures
+    - Stacks, Queues
+    - Binary trees
+    - Hashtables
+    - Graphs
+    
+If you think that I might be useful to you, or if you'd like to contact me, feel free to shoot me an email at biskoi@daydream.cafe
 
 <!--
 **biskoi/biskoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
