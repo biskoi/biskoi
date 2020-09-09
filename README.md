@@ -1,4 +1,10 @@
-### Hi there 👋
+Hello! I'm a full stack web developer who is currently working with Lambda School as one of their team leads. I'm currently seeking out offers where I can further develop myself, my technical abilities, and help others along the way.
+
+Each day, I employ both technical and soft skills leading a group of students through their journey at Lambda. From daily code reviews, team meetings, helping someone deepen their understanding of programming, or just being a friend.
+
+Coding can be such a social activity, and I personally find joy in that.
+
+When I'm not coding, I'm either learning music theory/practicing guitar, or immersing myself in Japanese culture to deepen my understanding of the language. Maybe even some video games, but I'm happiest when I'm learning something new or perfecting my crafts. 
 
 <!--
 **biskoi/biskoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
