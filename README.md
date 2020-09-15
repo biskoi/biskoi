@@ -10,7 +10,7 @@ Things I've worked with in the past include:
     - LESS/SCSS
     - Javascript
     - Python
-    - Deploying web applications/servers
+    - Deploying web applications/APIs
   
   # React Frontend
     - Router
