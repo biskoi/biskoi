@@ -17,12 +17,14 @@ Things I've worked with in the past include:
     - Redux (Thunk)
     - Context API
     - Custom hooks
+    - Validation with Yup
     - Jest.js
     
   # Node.js Backend
     - REST APIs
     - Express.js
     - Knex.js
+    - Validation with Yup
     - Authentication (Tokens/Cookies/3rd-party)
     - RDBMS (SQL, PostgreSQL)
     
@@ -32,7 +34,7 @@ Things I've worked with in the past include:
     - Hashtables
     - Graphs
     
-If you think that I might be useful to you, or if you'd like to contact me, feel free to contact me at biskoi@daydream.cafe
+If you think that I might be useful to you, or if you'd like to contact me, feel free to contact me at krisda4649@gmail.com
 
 <!--
 **biskoi/biskoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
