@@ -34,7 +34,7 @@ Things I've worked with in the past include:
     - Hashtables
     - Graphs
     
-If you think that I might be useful to you, or if you'd like to contact me, feel free to contact me at krisda4649@gmail.com
+If you think that I might be useful to you, or if you'd like to contact me, I can be reached at krisda4649@gmail.com
 
 <!--
 **biskoi/biskoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
