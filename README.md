@@ -1,52 +1,25 @@
-Hello! I'm a full stack web developer who is currently working with Lambda School as one of their team leads. I'm currently seeking out offers where I can further develop myself, my technical abilities, and help others along the way.
+# Biskoi
 
-While Javascript may be my strongest programming language, I recently picked up Python and am thoroughly enjoying it so far. I'm looking forward to all the cool things I'll learn with the language.
+Hello! I'm a full-stack engineer with experience in React, Redux, Express, Node.js, and more. I enjoy finding simple, elegant solutions for complex problems, and debugging complex systems to gain a full understanding of them.
 
-Things I've worked with in the past include:
+![logos](https://user-images.githubusercontent.com/59832609/150705945-f8735b55-8d8e-4264-b147-0287277d48cf.png)
 
-  # Basics
-    - HTML
-    - CSS
-    - LESS/SCSS
-    - Javascript
-    - Python
-    - Deploying web applications/APIs
-  
-  # React Frontend
-    - Router
-    - Redux (Thunk)
-    - Context API
-    - Custom hooks
-    - Validation with Yup
-    - Jest.js
-    
-  # Node.js Backend
-    - REST APIs
-    - Express.js
-    - Knex.js
-    - Validation with Yup
-    - Authentication (Tokens/Cookies/3rd-party)
-    - RDBMS (SQL, PostgreSQL)
-    
-  # Data structures
-    - Stacks, Queues
-    - Binary trees
-    - Hashtables
-    - Graphs
-    
-If you think that I might be useful to you, or if you'd like to contact me, I can be reached at krisda4649@gmail.com
+## Skills/Experience
+  - React (class components and function components with hooks)
+  - Redux
+  - Node.js
+  - Express.js
+  - Knex.js
+  - Jest.js
+  - react-router
+  - React hook-based Context API
+  - Custom React hooks
+  - Frontend and backend validation with Yup
+  - REST APIs
+  - Authentication (Tokens/Cookies/3rd-party)
+  - RDBMS (SQL, PostgreSQL)
+  - Strong understanding of vanila HTML, CSS, and JavaScript
+  - LESS/SCSS
+  - Deploying web applications/APIs
+  - Python
 
-<!--
-**biskoi/biskoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
