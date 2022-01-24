@@ -11,6 +11,7 @@ Hello! I'm a full-stack engineer with experience in React, Redux, Express, Node.
   - Express.js
   - Knex.js
   - Jest.js
+  - Supertest
   - react-router
   - React hook-based Context API
   - Custom React hooks
@@ -21,5 +22,6 @@ Hello! I'm a full-stack engineer with experience in React, Redux, Express, Node.
   - Strong understanding of vanila HTML, CSS, and JavaScript
   - LESS/SCSS
   - Deploying web applications/APIs
+  - Test driven development
   - Python
 
