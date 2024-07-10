@@ -1,6 +1,3 @@
-# Biskoi
-
-Hello! I'm a full-stack engineer. I like VR, music, cooking, rhythm games. If you'd like to get in touch, feel free to tweet me at @biskoi_
 
 ![logos](https://user-images.githubusercontent.com/59832609/150705945-f8735b55-8d8e-4264-b147-0287277d48cf.png)
 
